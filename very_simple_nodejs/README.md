@@ -6,6 +6,8 @@
 ```
 $ node main.js
 ```
-
+ 브라우저 => http://localhost:3000/ 
+ 
+ 
 ## Reference
 * Node.js "hello world" example (https://nodejs.org/en/about/)
