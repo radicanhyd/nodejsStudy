@@ -4,7 +4,7 @@
 ## 실행
 명령 프롬프트
 ```
-node main.js
+$ node main.js
 ```
 
 ## Reference
