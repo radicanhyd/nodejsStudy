@@ -7,9 +7,9 @@
 $ node main.js
 ```
 - 브라우저
-```html
+
  http://127.0.0.1:1337/
-```
+
  
 ## Reference
 * Node.js "hello world" example (https://nodejs.org/en/about/)
