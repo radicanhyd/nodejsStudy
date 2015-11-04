@@ -6,7 +6,7 @@
 ```
 $ node main.js
 ```
-브라우저 : http://localhost:3000/ 
+브라우저 : http://127.0.0.1:3000/ 
  
  
 ## Reference
