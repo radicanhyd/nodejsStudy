@@ -8,7 +8,6 @@
 
 ```
 $ node app.js
-
 ```
 
 
@@ -21,4 +20,4 @@ $ node app.js
 
 
 ## Reference
-* Express application generator (http://expressjs.com/starter/generator.html)
+* Express "Hello world" example (http://expressjs.com/starter/hello-world.html)
